@@ -47,7 +47,7 @@ module sr_flip_flop (
         end
     end
 endmodule
- F
+
 ```
 RTL LOGIC FOR FLIPFLOP:
 
