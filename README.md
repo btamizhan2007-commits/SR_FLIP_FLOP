@@ -5,8 +5,7 @@ AIM:
 To implement SR flipflop using verilog and validating their functionality using their functional tables
 
 SOFTWARE REQUIRED:
-
-Quartus prime
+          Quartus prime
 
 THEORY
 
@@ -48,11 +47,18 @@ module sr_flip_flop (
         end
     end
 endmodule
- F
+
 ```
 RTL LOGIC FOR FLIPFLOP:
+
 [EX 06 Dia.pdf](https://github.com/user-attachments/files/24142777/EX.06.Dia.pdf)
 
 wave form sr  flip flop :
 <img width="1179" height="771" alt="Screenshot 2025-12-13 211717" src="https://github.com/user-attachments/assets/022ac8eb-af15-470e-b417-a95d91d97c98" />
+
+NAME: TAMIZHAN.B
+REF NO: 25018064
+
+RESULT:
+    Thus the SR flipflop is implemented and verified.
 
