@@ -1,0 +1,8 @@
+|SR_FLIP_FLOP
+clk => Q~reg0.CLK
+rst => Q.OUTPUTSELECT
+S => Mux0.IN3
+R => Mux0.IN4
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
