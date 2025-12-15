@@ -54,7 +54,8 @@ RTL LOGIC FOR FLIPFLOP:
 [EX 06 Dia.pdf](https://github.com/user-attachments/files/24142777/EX.06.Dia.pdf)
 
 wave form sr  flip flop :
-<img width="1179" height="771" alt="Screenshot 2025-12-13 211717" src="https://github.com/user-attachments/assets/022ac8eb-af15-470e-b417-a95d91d97c98" />
+
+[SR_WAVE.pdf](https://github.com/user-attachments/files/24169813/SR_WAVE.pdf)
 
 NAME: TAMIZHAN.B
 
